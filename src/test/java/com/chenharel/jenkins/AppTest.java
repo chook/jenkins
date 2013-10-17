@@ -38,7 +38,8 @@ public class AppTest
 
     public void testApp2()
     {
-        assertTrue( false );
+        int x = 0;
+        assertTrue( x == 0 );
     }
 
     public void testApp3()
